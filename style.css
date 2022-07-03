@@ -32,3 +32,25 @@ h1{
     background-color: rgba(93, 198, 230, 0.651);
     box-shadow: 10px 5px 5px rgba(84, 84, 177, 0.774);
 }
+.dream_container{
+    display: flex;
+    margin-top: 200px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+.width_set img{
+    width: 80%;
+}
+.web_color{
+    color: deepskyblue;
+    font-size: 3rem;
+    font-style: italic;
+    font-stretch: extra-expanded;
+    letter-spacing: 3px;
+}
+.p_style{
+  width: 580px;
+  height: 200px;
+  text-align: justify;
+}
