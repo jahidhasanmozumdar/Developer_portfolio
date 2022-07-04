@@ -54,3 +54,34 @@ h1{
   height: 200px;
   text-align: justify;
 }
+.exp_container{
+    display: flex;
+    padding-left: 8%;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+.use_shadow{
+    width:40%;
+    margin-left:5%;
+    padding:15px 12px;
+    box-shadow: 14px 15px  18px #927474;
+    border-radius: 8px;
+    margin-bottom: 100px;
+}
+.side_border{
+    border-left: 8px solid #ff0000;
+}
+.side_border_1{
+    border-left: 10px solid #b3ff01;
+}
+#exp{
+    margin-left: 40px;
+}
+footer{
+    color: #080806d8;
+   margin-top: 200px;
+    text-align: center;
+    font-size: 1rem;
+   
+}
